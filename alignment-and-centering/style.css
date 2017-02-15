@@ -54,12 +54,12 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .box9 {
   /*font-size: 120px;*/
   flex: 5;
-  padding-bottom: 200px;
-  align-self: center;
+ /* padding-bottom: 200px;
+  align-self: center;*/
 }
 
 .box5 {
   /*font-size: 180px;*/
   flex: 1.5;
-  padding-bottom: 50px;
+  /*padding-bottom: 50px;*/
 }
